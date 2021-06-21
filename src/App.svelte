@@ -29,6 +29,7 @@
   </form>
   <Button count={$count} handelClick={increment} />
   <Resetter />
+  <Resetter />
 </main>
 
 <style>
